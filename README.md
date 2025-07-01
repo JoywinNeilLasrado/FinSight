@@ -1,5 +1,5 @@
 <header>
-    <h1>💰 Finance Map Visualizer</h1>
+    <h1>FinSight</h1>
     <p>A data-driven web app for financial visualization using Python, CSV analytics, and Leaflet.js maps.</p>
     <div class="badges">
       <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge">
