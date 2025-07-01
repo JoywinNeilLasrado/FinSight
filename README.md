@@ -1,6 +1,6 @@
 <header>
     <h1>FinSight</h1>
-    <p>A data-driven web app for financial visualization using Python, CSV analytics, and Leaflet.js maps.</p>
+    <p>A data-driven web app for financial visualization using Python, CSV analytics, and maps.</p>
     <div class="badges">
       <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="version badge">
       <img src="https://img.shields.io/badge/license-MIT-green" alt="license badge">
