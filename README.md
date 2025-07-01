@@ -78,7 +78,7 @@
     <h2>📬 Contact / Author</h2>
     <p>Created by <strong>Joywin Neil Lasrado</strong><br>
     📧 Email: <a href="mailto:joywinlasrado997@gmail.com">joywinlasrado997@gmail.com</a><br>
-    🔗 LinkedIn: <a href="https://linkedin.com/in/joywin" target="_blank">linkedin.com/in/joywin</a></p>
+    🔗 LinkedIn: <a href="https://linkedin.com/in/joywinneillasrado" target="_blank">linkedin.com/in/joywin</a></p>
   </section>
 
   <footer>
