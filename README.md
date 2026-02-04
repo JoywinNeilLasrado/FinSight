@@ -37,7 +37,7 @@
     <h2>⚙️ Installation</h2>
     <ol>
       <li>Clone this repository:</li>
-      <code>git clone [https://github.com/yourusername/finSight.git</code>
+      <code>git clone https://github.com/JoywinNeilLasrado/FinSight.git</code>
     </ol>
   </section>
 
